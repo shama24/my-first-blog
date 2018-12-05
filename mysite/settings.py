@@ -25,7 +25,7 @@ SECRET_KEY = ')de2)rz8f(tvt0_38y57hcle_12kv8_llphyhs+k^p4z$-xv#9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'asus.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'shama24.pythonanywhere.com']
 
 
 # Application definition
